@@ -17,28 +17,27 @@ This repository contains the code and resources for "Java Design Patterns & SOLI
 
 Design patterns represent solutions to common problems, which you face while doing programming. These solutions are reusable and can solve a wide variety of problems. These became popular with the release of classic book on the subject "Elements of Reusable Object-Oriented Software" writtern by Erich Gamma, John Vlissides, Ralph Johnson and Richard Helm (these authors are known as Gang of Four and so the common abbreviation GoF book :) ) 
 
+SOLID is an acronym representing five design principles that help create maintainable and extensible software. These principles guide developers in writing clean and flexible code
+
 ## Course Content
 
 The course is divided into several modules, each focusing on a specific topic. The modules are as follows:
 
-1. SOLID Design Principles
+1. SOLID Design Principles: Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle
 2. Creational Design Patterns: Builder, Simple Factory, Factory Method, Prototype, Abstract Factory, Singleton, Object Pool
 3. Structural Design Patterns: Adapter, Bridge, Decorator, Composite, Facade, Flyweight, Proxy
 4. Behavioral Design Patterns: Chain of Responsibility, Command, Interpreter, Mediator, Iterator, Memento, Observer, State, Strategy, Template Method, Visitor, Null Object
     
 ## What I learned
 
-- Understanding the core concepts of the Spring framework, including dependency injection and inversion of control (IoC)
-- Understanding the lifecycle of Spring beans and how to work with initialization and destruction methods
-- Implementing dependency injection using annotations
-- Learning the basics of AOP and how to apply cross-cutting concerns in Spring applications
-- Building web applications with Spring Boot, Spring MVC, including controllers, views, and handling HTTP requests
-- Integrating databases with Spring and Spring Boot using JDBC, JPA (Java Persistence API), and Hibernate
-- Bootstrapping Spring applications using various technologies, such as Java-based configuration or Spring Boot
-- Implementing security features like authentication and authorization in Spring applications
-- Creating web services and RESTful APIs using Spring
-- Understanding the benefits of Spring Boot and its role in simplifying Spring application development
-- Using Spring Boot starters to easily add dependencies and configurations
+- 26 design patterns including 23 design patterns of gang of four & other new modern design patterns
+- The SOLID design principles using Java with hands on examples along with design patterns
+- Get a complete understanding of Java design patterns & understand where to use them in Java code
+- The differences between competing design patterns to choose correct solution to your problem
+- Real world examples of design patterns usage with hands on projects for every design pattern
+- Understand & implement all creational, structural & behavioral gang of four design patterns using Java
+- Understand & implement Null Object, Object Pool design patterns using Java
+- Comprehensive knowledge about limitations, comparisons, real world usage & hand on examples of design patterns using Java
 
 ## Certification
 
